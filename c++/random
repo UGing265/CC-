@@ -1,0 +1,14 @@
+#include <iostream>
+#include <cstdlib> // for rand() and srand()
+#include <ctime> // for time()
+using namespace std;
+
+int main()
+{
+	// initialize random number generator
+	srand(time(0)); // set initial seed value to system clock
+
+	// generate random number
+	// ...
+
+	return 0;
