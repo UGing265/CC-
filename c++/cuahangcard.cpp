@@ -27,11 +27,11 @@ int main (){
     cout<<"xac nhan ?\n"; //dem tu 10 den 1 ma ko phan hoi thi tu bo -> tro lai giao dien nhap so tien
     
     cout<<"dang thanh toan..\n.";
-    
+
     cout<<"da mua thanh cong \n";
     
     cout<<"dang giao hang \n";
     
     cout<<"cam on quy khach da ung ho <3\n";
-    
+
 }
