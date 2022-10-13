@@ -32,6 +32,6 @@ int main (){
     
     cout<<"dang giao hang \n";
     
-    cout<<"cam on quy khach da ung ho <3\n";
+    cout<<"cam on quy khach da ung ho<3\n";
 
 }
